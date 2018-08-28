@@ -1,5 +1,2 @@
 # Hello-World
-Learning about github
-
-
-lopjlnkjn
+Learning about git
